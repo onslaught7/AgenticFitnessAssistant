@@ -1,2 +1,9 @@
 Data
 /Chekclist.md
+
+# python
+venv
+__pycache__
+
+# environment variables
+.env
