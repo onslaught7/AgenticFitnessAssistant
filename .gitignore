@@ -3,6 +3,7 @@ Data
 
 # python
 venv
+.venv
 __pycache__
 
 # environment variables
